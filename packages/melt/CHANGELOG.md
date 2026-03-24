@@ -1,5 +1,23 @@
 # melt
 
+## 0.44.0
+
+### Minor Changes
+
+- dialog: animation support ([`5f7430d`](https://github.com/melt-ui/next-gen/commit/5f7430dfe9fa7dfe7d70c1b7eff09beb52c5b1d2))
+
+### Patch Changes
+
+- dialog: improve selection detection ([`df556ee`](https://github.com/melt-ui/next-gen/commit/df556ee73daf81e62ef86c8e8c8c553229032e72))
+
+- avatar: remove effects ([`b3a6036`](https://github.com/melt-ui/next-gen/commit/b3a60360c00620680e1da31c95c5fd2e42609986))
+
+## 0.43.0
+
+### Minor Changes
+
+- feat: add dialog ([`b2e7456`](https://github.com/melt-ui/next-gen/commit/b2e74566ab6603111809b35808cbfa705e157d2b))
+
 ## 0.42.0
 
 ### Minor Changes

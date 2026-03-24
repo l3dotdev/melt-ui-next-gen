@@ -14,3 +14,4 @@ export { default as Toggle } from "./Toggle.svelte";
 export { default as Tooltip } from "./Tooltip.svelte";
 
 export { default as SpatialMenu } from "./SpatialMenu.svelte";
+
